@@ -1,5 +1,0 @@
-client id 
-650856478533-f7lh73ipu1bp4sp4hgob58am6aitb7gp.apps.googleusercontent.com
-
-client secret
-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
